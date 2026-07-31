@@ -41,7 +41,7 @@ const Hero = () => {
             </p>
             <p className="text-lg sm:text-xl md:text-2xl text-gray-300">
               Administrateur Réseau & Système •{" "}
-              <span className="text-cyber-blue glow-text-blue sm:text-2xl md:text-3xl ">
+              <span className="text-cyber-blue glow-text-blue sm:text-2xl md:text-3xl font-semibold">
                 Ethical Hacker
               </span>
             </p>
