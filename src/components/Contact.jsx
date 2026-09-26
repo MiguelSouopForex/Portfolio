@@ -359,7 +359,7 @@ const Contact = () => {
     {
       icon: <Github size={20} />,
       label: "GitHub",
-      href: "https://github.com/miguelsouop",
+      href: "https://github.com/MiguelSouopForex",
     },
     {
       icon: <Linkedin size={20} />,
